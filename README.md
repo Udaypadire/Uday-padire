@@ -1,1 +1,1 @@
-#Hi there 👋 I am G Tharak , I am a computer science student learning c,Java, python ,dsa
+#Hi there 👋 I am P Uday , I am a computer science student learning c,Java, python ,dsa
